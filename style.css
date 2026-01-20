@@ -1,11 +1,11 @@
-  h1 ( color : red ;)
-  .tieude ( 
+  h1 { color : red ;}
+  .tieude {
         color :Tomato ; 
         font-weight : bold ;
         font-size : 20pt ;
-)
-  .noidung  ( 
+  }
+  .noidung  { 
         color : black ; 
         font-style : normal ;
         font-size : 14pt ;
-)
+  }
