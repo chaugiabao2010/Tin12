@@ -13,7 +13,11 @@
 }
 .menu a{
     padding:15px 20px ;
-    color : lightblue ;
+    color : green ;
+}
+.menu hover{
+    background-color: lightgray ;
+}
 .content{
     flex: 70%;
     background-color: white ;
